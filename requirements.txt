@@ -16,3 +16,6 @@ python-arq
 future
 psutil
 wget
+odmantic
+motor
+pymongo
